@@ -1,0 +1,12 @@
+{
+  "name": "abracadabra",
+  "type": "module",
+  "description": "",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
